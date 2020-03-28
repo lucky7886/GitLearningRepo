@@ -18,3 +18,6 @@ const filterarray= array.filter((num)=>
     } 5
     );
     console.log(reduceArray);
+
+    alert
+   ("heyyweyw");
